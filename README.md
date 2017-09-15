@@ -3,6 +3,8 @@ STM32 HID Joystick with PPM input.
 
 The STM32 Workbench project is generated with ST Microelectronics CubeMX (http://www.st.com/en/development-tools/stm32cubemx.html) configuration tool
 
+The compiled version of program is `Debug/ppm_stick.bin` It can be uploaded to any "Blue pill" board and should work out of the box.
+
 # Hardware
 * STM32F103C8T6 "Blue pill" development board (http://wiki.stm32duino.com/index.php?title=Blue_Pill);
 * ST-LINK/V2 clone USB programmer;
