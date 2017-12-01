@@ -7,7 +7,7 @@ The compiled version of program is `Debug/ppm_stick.bin` It can be uploaded to a
 
 # Hardware
 * STM32F103C8T6 "Blue pill" development board (http://wiki.stm32duino.com/index.php?title=Blue_Pill);
-* ST-LINK/V2 clone USB programmer;
+* ST-LINK/V2 clone USB programmer or UART adapter;
 * FlySky/iRangeX A8S receiver;
 * FlySky/iRangeX I6X transmitter;
 
